@@ -1,2 +1,3 @@
 # Repo-remoto
-# Repositório Remoto
+# Repositório Local
+Desc. inserida no rep. local depois do clone
